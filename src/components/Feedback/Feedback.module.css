@@ -1,0 +1,16 @@
+.btn{
+  font-size: 38px;
+  background-color: aquamarine;
+  border: none;
+  border-radius: 20%;
+  padding: 10px;
+
+
+}:not(:last-child){
+   margin-right: 10px;
+}
+
+.statList{
+  font-size: 24px;
+  list-style: none;
+}
